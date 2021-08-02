@@ -1,0 +1,16 @@
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\bin\Debug\net5.0\ejercicio_13.exe
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\bin\Debug\net5.0\ejercicio_13.deps.json
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\bin\Debug\net5.0\ejercicio_13.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\bin\Debug\net5.0\ejercicio_13.runtimeconfig.dev.json
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\bin\Debug\net5.0\ejercicio_13.dll
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\bin\Debug\net5.0\ref\ejercicio_13.dll
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\bin\Debug\net5.0\ejercicio_13.pdb
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ejercicio_13.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ejercicio_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ejercicio_13.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ejercicio_13.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ejercicio_13.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ejercicio_13.dll
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ref\ejercicio_13.dll
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ejercicio_13.pdb
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 2\ejercicio_13\obj\Debug\net5.0\ejercicio_13.genruntimeconfig.cache

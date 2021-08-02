@@ -1,0 +1,15 @@
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/bin/Debug/net5.0/Ejercicio7-Parte2.deps.json
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/bin/Debug/net5.0/Ejercicio7-Parte2.runtimeconfig.json
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/bin/Debug/net5.0/Ejercicio7-Parte2.runtimeconfig.dev.json
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/bin/Debug/net5.0/Ejercicio7-Parte2.dll
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/bin/Debug/net5.0/ref/Ejercicio7-Parte2.dll
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/bin/Debug/net5.0/Ejercicio7-Parte2.pdb
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/Ejercicio7-Parte2.csproj.AssemblyReference.cache
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/Ejercicio7-Parte2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/Ejercicio7-Parte2.AssemblyInfoInputs.cache
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/Ejercicio7-Parte2.AssemblyInfo.cs
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/Ejercicio7-Parte2.csproj.CoreCompileInputs.cache
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/Ejercicio7-Parte2.dll
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/ref/Ejercicio7-Parte2.dll
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/Ejercicio7-Parte2.pdb
+/Users/alejandro/Projects/Taller2/Ejercicio7-Parte2/obj/Debug/net5.0/Ejercicio7-Parte2.genruntimeconfig.cache

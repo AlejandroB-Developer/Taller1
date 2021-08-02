@@ -1,0 +1,15 @@
+/Users/alejandro/Projects/Taller1/Ejercicio19/bin/Debug/net5.0/Ejercicio19.deps.json
+/Users/alejandro/Projects/Taller1/Ejercicio19/bin/Debug/net5.0/Ejercicio19.runtimeconfig.json
+/Users/alejandro/Projects/Taller1/Ejercicio19/bin/Debug/net5.0/Ejercicio19.runtimeconfig.dev.json
+/Users/alejandro/Projects/Taller1/Ejercicio19/bin/Debug/net5.0/Ejercicio19.dll
+/Users/alejandro/Projects/Taller1/Ejercicio19/bin/Debug/net5.0/ref/Ejercicio19.dll
+/Users/alejandro/Projects/Taller1/Ejercicio19/bin/Debug/net5.0/Ejercicio19.pdb
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/Ejercicio19.csproj.AssemblyReference.cache
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/Ejercicio19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/Ejercicio19.AssemblyInfoInputs.cache
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/Ejercicio19.AssemblyInfo.cs
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/Ejercicio19.csproj.CoreCompileInputs.cache
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/Ejercicio19.dll
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/ref/Ejercicio19.dll
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/Ejercicio19.pdb
+/Users/alejandro/Projects/Taller1/Ejercicio19/obj/Debug/net5.0/Ejercicio19.genruntimeconfig.cache

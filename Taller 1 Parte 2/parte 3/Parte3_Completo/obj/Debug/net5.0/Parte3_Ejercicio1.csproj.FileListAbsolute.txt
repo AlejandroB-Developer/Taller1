@@ -1,0 +1,32 @@
+C:\Users\USER\source\repos\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.exe
+C:\Users\USER\source\repos\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.deps.json
+C:\Users\USER\source\repos\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.runtimeconfig.json
+C:\Users\USER\source\repos\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.dll
+C:\Users\USER\source\repos\Parte3_Ejercicio1\bin\Debug\net5.0\ref\Parte3_Ejercicio1.dll
+C:\Users\USER\source\repos\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.pdb
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.dll
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\ref\Parte3_Ejercicio1.dll
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.pdb
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.exe
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.deps.json
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.runtimeconfig.json
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.dll
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\bin\Debug\net5.0\ref\Parte3_Ejercicio1.dll
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\bin\Debug\net5.0\Parte3_Ejercicio1.pdb
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.AssemblyInfo.cs
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.dll
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\ref\Parte3_Ejercicio1.dll
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.pdb
+C:\Users\USER\Desktop\Stanly c#\Parte3_Ejercicio1\obj\Debug\net5.0\Parte3_Ejercicio1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\bin\Debug\net5.0\ejercicio_20.exe
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\bin\Debug\net5.0\ejercicio_20.deps.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\bin\Debug\net5.0\ejercicio_20.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\bin\Debug\net5.0\ejercicio_20.runtimeconfig.dev.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\bin\Debug\net5.0\ejercicio_20.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\bin\Debug\net5.0\ref\ejercicio_20.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\bin\Debug\net5.0\ejercicio_20.pdb
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ejercicio_20.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ejercicio_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ejercicio_20.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ejercicio_20.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ejercicio_20.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ejercicio_20.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ref\ejercicio_20.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ejercicio_20.pdb
+C:\Users\PERSONAL\Desktop\projects\ejercicio_20\obj\Debug\net5.0\ejercicio_20.genruntimeconfig.cache

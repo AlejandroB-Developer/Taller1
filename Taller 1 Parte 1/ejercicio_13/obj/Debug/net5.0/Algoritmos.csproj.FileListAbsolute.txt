@@ -1,0 +1,15 @@
+/Users/alejandro/Projects/Taller1/Algoritmos/bin/Debug/net5.0/Algoritmos.deps.json
+/Users/alejandro/Projects/Taller1/Algoritmos/bin/Debug/net5.0/Algoritmos.runtimeconfig.json
+/Users/alejandro/Projects/Taller1/Algoritmos/bin/Debug/net5.0/Algoritmos.runtimeconfig.dev.json
+/Users/alejandro/Projects/Taller1/Algoritmos/bin/Debug/net5.0/Algoritmos.dll
+/Users/alejandro/Projects/Taller1/Algoritmos/bin/Debug/net5.0/ref/Algoritmos.dll
+/Users/alejandro/Projects/Taller1/Algoritmos/bin/Debug/net5.0/Algoritmos.pdb
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/Algoritmos.csproj.AssemblyReference.cache
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/Algoritmos.AssemblyInfoInputs.cache
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/Algoritmos.AssemblyInfo.cs
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/Algoritmos.csproj.CoreCompileInputs.cache
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/Algoritmos.dll
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/ref/Algoritmos.dll
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/Algoritmos.pdb
+/Users/alejandro/Projects/Taller1/Algoritmos/obj/Debug/net5.0/Algoritmos.genruntimeconfig.cache

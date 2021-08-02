@@ -1,0 +1,15 @@
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/bin/Debug/net5.0/Ejercicio3-Parte4.deps.json
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/bin/Debug/net5.0/Ejercicio3-Parte4.runtimeconfig.json
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/bin/Debug/net5.0/Ejercicio3-Parte4.runtimeconfig.dev.json
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/bin/Debug/net5.0/Ejercicio3-Parte4.dll
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/bin/Debug/net5.0/ref/Ejercicio3-Parte4.dll
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/bin/Debug/net5.0/Ejercicio3-Parte4.pdb
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/Ejercicio3-Parte4.csproj.AssemblyReference.cache
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/Ejercicio3-Parte4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/Ejercicio3-Parte4.AssemblyInfoInputs.cache
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/Ejercicio3-Parte4.AssemblyInfo.cs
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/Ejercicio3-Parte4.csproj.CoreCompileInputs.cache
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/Ejercicio3-Parte4.dll
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/ref/Ejercicio3-Parte4.dll
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/Ejercicio3-Parte4.pdb
+/Users/alejandro/Projects/Taller2/Ejercicio3-Parte4/obj/Debug/net5.0/Ejercicio3-Parte4.genruntimeconfig.cache

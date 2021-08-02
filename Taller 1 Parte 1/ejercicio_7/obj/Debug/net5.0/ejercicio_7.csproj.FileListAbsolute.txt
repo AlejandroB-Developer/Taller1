@@ -1,0 +1,16 @@
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\bin\Debug\net5.0\ejercicio_7.exe
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\bin\Debug\net5.0\ejercicio_7.deps.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\bin\Debug\net5.0\ejercicio_7.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\bin\Debug\net5.0\ejercicio_7.runtimeconfig.dev.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\bin\Debug\net5.0\ejercicio_7.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\bin\Debug\net5.0\ref\ejercicio_7.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\bin\Debug\net5.0\ejercicio_7.pdb
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ejercicio_7.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ejercicio_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ejercicio_7.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ejercicio_7.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ejercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ejercicio_7.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ref\ejercicio_7.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ejercicio_7.pdb
+C:\Users\PERSONAL\Desktop\projects\ejercicio_7\obj\Debug\net5.0\ejercicio_7.genruntimeconfig.cache

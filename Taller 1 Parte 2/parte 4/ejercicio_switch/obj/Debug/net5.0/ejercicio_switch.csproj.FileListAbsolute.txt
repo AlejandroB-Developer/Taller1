@@ -1,0 +1,16 @@
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\bin\Debug\net5.0\ejercicio_switch.exe
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\bin\Debug\net5.0\ejercicio_switch.deps.json
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\bin\Debug\net5.0\ejercicio_switch.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\bin\Debug\net5.0\ejercicio_switch.runtimeconfig.dev.json
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\bin\Debug\net5.0\ejercicio_switch.dll
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\bin\Debug\net5.0\ref\ejercicio_switch.dll
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\bin\Debug\net5.0\ejercicio_switch.pdb
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ejercicio_switch.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ejercicio_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ejercicio_switch.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ejercicio_switch.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ejercicio_switch.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ejercicio_switch.dll
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ref\ejercicio_switch.dll
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ejercicio_switch.pdb
+C:\Users\PERSONAL\Desktop\taller c#\taller 1 parte 2\parte 4\ejercicio_switch\obj\Debug\net5.0\ejercicio_switch.genruntimeconfig.cache

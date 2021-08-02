@@ -1,0 +1,16 @@
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\bin\Debug\net5.0\ejercicio_24.exe
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\bin\Debug\net5.0\ejercicio_24.deps.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\bin\Debug\net5.0\ejercicio_24.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\bin\Debug\net5.0\ejercicio_24.runtimeconfig.dev.json
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\bin\Debug\net5.0\ejercicio_24.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\bin\Debug\net5.0\ref\ejercicio_24.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\bin\Debug\net5.0\ejercicio_24.pdb
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ejercicio_24.csproj.AssemblyReference.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ejercicio_24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ejercicio_24.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ejercicio_24.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ejercicio_24.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ejercicio_24.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ref\ejercicio_24.dll
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ejercicio_24.pdb
+C:\Users\PERSONAL\Desktop\projects\ejercicio_24\obj\Debug\net5.0\ejercicio_24.genruntimeconfig.cache

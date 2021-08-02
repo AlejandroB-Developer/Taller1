@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C91D51D0-D610-4F28-BAA2-DBB0AA41ED1F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Taller1" expanded="True">
+            <Node name="ejercicio_4" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ejercicio13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Algoritmos/Ejercicio13.csproj</String>
+    <String>Ejercicio17/Ejercicio17.csproj</String>
+    <String>Ejercicio19/Ejercicio19.csproj</String>
+    <String>Ejercicio21/Ejercicio21.csproj</String>
+    <String>Ejercicio23/Ejercicio23.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
